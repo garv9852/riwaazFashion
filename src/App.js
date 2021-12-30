@@ -12,7 +12,7 @@ function App() {
         <Header/>
         <Routes>
           <Route path="/product/:username" element={<Productpage/>}/>
-          <Route path="/" element={<><Card/> <Items/></>}/>
+          <Route path="/riwaazFashion/" element={<><Card/> <Items/></>}/>
         </Routes>
       </Router>
     </div>
