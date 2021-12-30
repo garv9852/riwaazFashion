@@ -10,7 +10,7 @@ export default class items extends Component {
                 <div className='items-container'>
                     {
                         productData.map((item)=>(
-                            <Link to={{pathname:`/product/${item.name}`,
+                            <Link to={{pathname:`/riwaazFashion/product/${item.name}`,
                                        state:item.name}} style={{"textDecoration":"none"}}>
                                 <div className='item-card'>
                                     <div className='image-cont'>

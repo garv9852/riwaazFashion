@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Header/>
         <Routes>
-          <Route path="/product/:username" element={<Productpage/>}/>
+          <Route path="/riwaazFashion/product/:username" element={<Productpage/>}/>
           <Route path="/riwaazFashion" element={<><Card/> <Items/></>}/>
         </Routes>
       </Router>
