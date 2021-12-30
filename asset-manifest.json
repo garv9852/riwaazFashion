@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riwaazFashion/static/css/main.5d09dacf.css",
+    "main.js": "/riwaazFashion/static/js/main.97661101.js",
+    "static/js/787.f288d973.chunk.js": "/riwaazFashion/static/js/787.f288d973.chunk.js",
+    "index.html": "/riwaazFashion/index.html",
+    "main.5d09dacf.css.map": "/riwaazFashion/static/css/main.5d09dacf.css.map",
+    "main.97661101.js.map": "/riwaazFashion/static/js/main.97661101.js.map",
+    "787.f288d973.chunk.js.map": "/riwaazFashion/static/js/787.f288d973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d09dacf.css",
+    "static/js/main.97661101.js"
+  ]
+}
