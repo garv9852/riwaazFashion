@@ -11,6 +11,7 @@ export default class productpage extends Component {
         pro=pro[0];
         //console.log(pro);
         window.onload = (event) => {
+            console.log('yes');
             window.location.href = "https://garv9852.github.io/riwaazFashion/";
           };
         return (
