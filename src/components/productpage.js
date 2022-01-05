@@ -9,7 +9,10 @@ export default class productpage extends Component {
             return obj.name==x;
         });
         pro=pro[0];
-        console.log(pro);
+        //console.log(pro);
+        window.onload = (event) => {
+            window.location.href = "https://garv9852.github.io/riwaazFashion/";
+          };
         return (
             <div className='product-page'>
                 <div className="photo-container">

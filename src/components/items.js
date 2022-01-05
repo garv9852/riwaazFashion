@@ -3,7 +3,6 @@ import { productData } from './photo'
 import {Link} from 'react-router-dom'
 export default class items extends Component {
     render() {
-        //console.log(productData);
         return (
             <>
                 <div className='headings'>Deals</div>
