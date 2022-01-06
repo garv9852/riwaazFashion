@@ -22,7 +22,6 @@ export default class items extends Component {
                                 </div> 
                             </Link>
                         ))
-                    
                     }
                 </div>   
             </>
