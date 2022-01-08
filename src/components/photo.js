@@ -7,13 +7,6 @@ export const productData=[
         price:1125,
     },
     {
-        name:"karachi2",
-        desc:"Karachi Warm Fabric with Pant and 2 MTR Long Stall with Siroski Work on it, Siroski Design (3pcs)",
-        proSize:[36,38,40,42,44],
-        link:["https://firebasestorage.googleapis.com/v0/b/riwaaz-fashion.appspot.com/o/karachi%2Fkarachi2.jpeg?alt=media&token=d95e7613-3d0e-402d-904d-f03a77a73ba0"],
-        price:1200,
-    },
-    {
         name:"karachi3",
         desc:"Karachi Warm Fabric with Pant and 2 MTR Long Stall with Siroski Work on it, Siroski Design (3pcs)",
         proSize:[36,38,40,42,44,46],
@@ -339,7 +332,7 @@ export const nproductData={
         link:["https://firebasestorage.googleapis.com/v0/b/riwaaz-fashion.appspot.com/o/suede%2Fsuede12.jpeg?alt=media&token=07b82975-93d7-4d0e-be51-c5bdbfd2e2e8"],
         price:1100,
     }],
-    night:[{
+    track:[{
         name:"Night1",
         desc:"Flannel Fabric with pant (2pcs)",
         proSize:[36,38,40,42,44],
